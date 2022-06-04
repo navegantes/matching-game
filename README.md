@@ -2,15 +2,16 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/navegantes/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/navegantes/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/navegantes/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/navegantes/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/navegantes/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/navegantes/matching-game?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/navegantes/matching-game?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/navegantes/matching-game?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/github/issues/navegantes/matching-game?style=for-the-badge)
+<!-- ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/navegantes/matching-game?style=for-the-badge) -->
 
 <img src="images/exemplo-image.png" alt="exemplo imagem">
 
-> A memory game in pure JS/HTML/CSS.
+> Jogo da memoria com JS/HTML/CSS puro. \
+> Curso de Javascript para React com Marco Bruno [Playlist Youtube](https://www.youtube.com/playlist?list=PLirko8T4cEmzWZVn_ZKQbfDOuCnSZJ4va).
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
